@@ -32,6 +32,12 @@ This extension uses the [flagrow/console](https://github.com/flagrow/console) pa
 "Flagrow Console" is shown in the extension tab as well, but you don't have to enable it in order to use the `serve` command.
 See the [Flagrow Console README](https://github.com/flagrow/console) to see what else is available if you enable it.
 
+## Standalone usage
+
+If Flarum is not yet installed or you can't enable the extension, you can also use the router script directly:
+
+    php -S 127.0.0.1:8000 vendor/flagrow/serve/src/server.php
+
 ## Support our work
 
 We prefer to keep our work available to everyone.
