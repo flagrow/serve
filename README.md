@@ -1,5 +1,10 @@
 # ![flagrow logo](https://avatars0.githubusercontent.com/u/16413865?v=3&s=20) [Flagrow](https://discuss.flarum.org/d/1832-flagrow-extension-developer-group) Serve, a project of [Gravure](https://gravure.io/).
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/flagrow/serve/blob/master/LICENSE.md)
+[![Latest Stable Version](https://img.shields.io/packagist/v/flagrow/serve.svg)](https://packagist.org/packages/flagrow/serve)
+[![Total Downloads](https://img.shields.io/packagist/dt/flagrow/serve.svg)](https://packagist.org/packages/flagrow/serve)
+[![Support Us](https://img.shields.io/badge/patreon-support-yellow.svg)](https://www.patreon.com/flagrow)
+
 Add the `serve` command to Flarum.
 This will allow you to start Flarum into the PHP developement server via a simple command.
 
