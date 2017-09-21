@@ -3,7 +3,7 @@
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/flagrow/serve/blob/master/LICENSE.md) [![Latest Stable Version](https://img.shields.io/packagist/v/flagrow/serve.svg)](https://packagist.org/packages/flagrow/serve) [![Total Downloads](https://img.shields.io/packagist/dt/flagrow/serve.svg)](https://packagist.org/packages/flagrow/serve) [![Donate](https://img.shields.io/badge/patreon-support-yellow.svg)](https://www.patreon.com/flagrow) [![Join our Discord server](https://discordapp.com/api/guilds/240489109041315840/embed.png)](https://flagrow.io/join-discord)
 
 Add the `serve` command to Flarum.
-This will allow you to start Flarum into the PHP developement server via a simple command.
+This will allow you to start Flarum into the PHP development server via a simple command.
 
 **This package is made for developers, it should probably not be installed on production servers.
 Use at your own risks !**
